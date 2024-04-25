@@ -11,6 +11,10 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+## What data your app collects from users
+We don’t collect any data from user because we just show weather from api
+
+
 ## Location Information
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
 
